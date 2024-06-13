@@ -8,8 +8,6 @@
   </ul>
 </div>
 
-<br>
-
 <!--profile visit count-->
 <div align="center">
   

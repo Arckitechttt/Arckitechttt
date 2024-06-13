@@ -25,19 +25,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Python**, **R**, **SQL**, **Spreadsheets**, **JavaScript**, **Jupyter**, **TensorFlow**, **NextJS**, and **RUST**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 Humans never stop learning, so I'm developing my skills and knowledges in **Data Science**, **Data Analysis**, **Data Engineer**, **Machine Learning**, **Deep Learning**, **AI**, **Web2**, and **Blockchain**.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I have keen interest in Data Science, Data Analysis, Data Engineer, Machine Learning, Deep Learning, AI, Web2, and Blockchain. Therefore, I'm learning **Python**, **R**, **SQL**, **Spreadsheets**, **TensorFlow**, **NextJS**, **RUST**, etc.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 📫 Feel free to reach me out at **alfrethanovcwjy@gmail.com**
 <!--Intro end-->
 
 
@@ -121,6 +115,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+Credit: [Arckitechttt](https://github.com/Arckitechttt)
 
-Last Edited on: 29/4/2023
+Last Edited on: 13/06/2024

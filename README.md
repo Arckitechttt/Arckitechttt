@@ -8,6 +8,15 @@
   </ul>
 </div>
 
+<br>
+
+<!--profile visit count-->
+<div align="center">
+  
+<!--- [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=Arckitechttt&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+  
+</div>
 
 <!--- snake -->
 <div align="center">
@@ -99,17 +108,6 @@
   
 </p>
 -->
-
-<br>
-
-<!--profile visit count-->
-<div align="center">
-  
-<!--- [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in) -->
-[![](https://visitcount.itsvg.in/api?id=Arckitechttt&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
-  
-</div>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

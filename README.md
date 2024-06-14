@@ -8,6 +8,13 @@
   </ul>
 </div>
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Data | Web2 | Web3 Enthusiast</h2></summary>
+  </ul>
+</div>
+
 <!--profile visit count-->
 <div align="center">
   
@@ -21,15 +28,6 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Data | Web2 | Web3 Enthusiast</h2></summary>
-  </ul>
-</div>
-
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Python**, **R**, **SQL**, **Spreadsheets**, **JavaScript**, **Jupyter**, **TensorFlow**, **NextJS**, and **RUST**

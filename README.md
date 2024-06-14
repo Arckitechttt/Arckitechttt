@@ -5,10 +5,9 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Alfrethanov Christian Wijaya
-        <br><br><br>
-        <h2>Data | Web2 | Web3 Enthusiast</h2>
-      </h1>
+      <h1 style="display: inline-block">Hello, I'm Alfrethanov Christian Wijaya</h1>
+      <br>
+      <h2>Data | Web2 | Web3 Enthusiast</h2>
     </summary>
   </ul>
 </div>
@@ -16,8 +15,8 @@
 <!--profile visit count-->
 <div align="center">
   
-<!--- [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in) -->
-[![](https://visitcount.itsvg.in/api?id=Arckitechttt&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+  <!--- [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in) -->
+  [![](https://visitcount.itsvg.in/api?id=Arckitechttt&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
   
 </div>
 
@@ -69,15 +68,15 @@
 <!--- stats (end) -->
 
 <!--h1 without bottom border-->
-<!--- <div id="user-content-toc"> NO COM
+<div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tools That I Familiar With</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<!--- <p align="center"> NO COM
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,stackoverflow,powershell,linux,ubuntu,bash,atom,vim,py,r,js,pycharm,tensorflow,pytorch,sklearn,flask,mysql,firebase,npm,nodejs,nextjs,laravel,css,tailwind,bootstrap,react,php,html,md,cpp,debian,rust,arduino,figma,discord&perline=14" />
   </a>
 </p>
 
@@ -85,7 +84,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
   </ul>
 </div>
 

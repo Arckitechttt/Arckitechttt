@@ -5,7 +5,10 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Alfrethanov Christian Wijaya<br><h2>Data | Web2 | Web3 Enthusiast</h2></h1>
+      <h1 style="display: inline-block">Hi 👋, I'm Alfrethanov Christian Wijaya
+        <br>
+        <h2>Data | Web2 | Web3 Enthusiast</h2>
+      </h1>
     </summary>
   </ul>
 </div>

@@ -20,11 +20,11 @@
   
 </div>
 
-<!--- snake -->
-<div align="center">
+<!-- snake -->
+<!-- <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Python**, **R**, **SQL**, **Spreadsheets**, **JavaScript**, **Jupyter**, **TensorFlow**, **NextJS**, and **RUST**
